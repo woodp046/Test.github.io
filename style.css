@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/256514/pexels-photo-256514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0px;
+    padding: 0px;
+}
+.center {
+    margin-right: 400px;
+    margin-left:400px;
+}
+.toolbar {
+    background-color: rgb(22, 22, 22);
+    padding: 15px 30px;
+}
+#button {
+    text-decoration: none;
+    color: white;
+    padding: 15px 30px;
+}
+#button:hover{
+    background-color: rgb(44, 44, 44);
+}
+#current{
+    text-decoration: none;
+    color: white;
+    padding: 15px 30px;
+    background-color: rgb(88, 88, 88);
+}
