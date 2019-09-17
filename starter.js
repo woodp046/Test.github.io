@@ -1,5 +1,5 @@
 var starter = ["It was", "They were", "The night", "When the", "We were", "When the"];
-var topic = ["Earth", "Love", "Fighting", "Magic", "Politics", "Food", "Animals", "Stress", "Adventure"];
+var topic = ["Earth", "Love", "Fighting", "Magic", "Politics", "Food", "Animals", "Stress", "Adventure", "School", "Physics", "Life"];
 function generateStarterWord() {
 	document.getElementById("generate").innerHTML = starter[parseInt(Math.random() * 5)];
 };
